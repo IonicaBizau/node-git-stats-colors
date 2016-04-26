@@ -1,14 +1,17 @@
+
 # git-stats-colors [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/git-stats-colors.svg)](https://www.npmjs.com/package/git-stats-colors) [![Downloads](https://img.shields.io/npm/dt/git-stats-colors.svg)](https://www.npmjs.com/package/git-stats-colors) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Adds colors to the git-stats inputs.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save git-stats-colors
 ```
 
-## Documentation
+
+## :memo: Documentation
+
 
 ### `GitStatsColors(input, thm)`
 Adds colors to the git-stats inputs.
@@ -20,19 +23,20 @@ Adds colors to the git-stats inputs.
 #### Return
 - **String** The colored result.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`cli-cal`](https://github.com/fnogatz/cli-cal) by Falco Nogatz
 
- - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)
+ - [`cli-cal`](https://github.com/fnogatz/cli-cal) (by Falco Nogatz)—Github-like calendar graph for the CLI
+ - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)—GitHub like calendar graphs in command line.
+ - [`ghcal`](https://github.com/IonicaBizau/ghcal)—See the GitHub contributions calendar of a user in the command line.
 
- - [`ghcal`](https://github.com/IonicaBizau/ghcal)
-
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
