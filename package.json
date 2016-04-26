@@ -1,6 +1,6 @@
 {
   "name": "git-stats-colors",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Adds colors to the git-stats inputs.",
   "main": "lib/index.js",
   "directories": {
@@ -28,5 +28,16 @@
     "ansi-parser": "^3.0.0",
     "couleurs": "^5.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
