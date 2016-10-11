@@ -1,6 +1,6 @@
 {
   "name": "git-stats-colors",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "description": "Adds colors to the git-stats inputs.",
   "main": "lib/index.js",
   "directories": {
@@ -33,6 +33,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
