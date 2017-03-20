@@ -1,6 +1,6 @@
 {
   "name": "git-stats-colors",
-  "version": "2.3.8",
+  "version": "2.3.9",
   "description": "Adds colors to the git-stats inputs.",
   "main": "lib/index.js",
   "directories": {
@@ -18,7 +18,7 @@
     "stats",
     "colors"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-git-stats-colors/issues"
@@ -32,12 +32,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
