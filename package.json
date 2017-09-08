@@ -1,6 +1,6 @@
 {
   "name": "git-stats-colors",
-  "version": "2.3.10",
+  "version": "2.3.11",
   "description": "Adds colors to the git-stats inputs.",
   "main": "lib/index.js",
   "directories": {
@@ -38,6 +38,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
