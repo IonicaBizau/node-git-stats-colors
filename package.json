@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/IonicaBizau/node-git-stats-colors",
   "dependencies": {
-    "couleurs": "^6.0.5"
+    "couleurs": "^6.0.5",
+    "is-win": "^1.0.11"
   },
-  "devDependencies": {},
   "files": [
     "bin/",
     "app/",
