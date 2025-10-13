@@ -81,36 +81,19 @@ console.log(GitStatsColors("DARK"));
 //   foreground: '#565656',
 //   levels: [ '#343434', '#2e643d', '#589f43', '#98bc21', '#b9fc04' ] }
 
-console.log(GitStatsColors("⬚ ▢ ▤ ▣ ◼", "DARK"));
+console.log(GitStatsColors("This is text ⬚ ▢ ▤ ▣ ◼", "DARK"));
 // ◼ ◼ ◼ ◼ ◼
 
-console.log(GitStatsColors("⬚ ▢ ▤ ▣ ◼", "LIGHT"));
+console.log(GitStatsColors("This is text ⬚ ▢ ▤ ▣ ◼", "LIGHT"));
 // ◼ ◼ ◼ ◼ ◼
 
-console.log(GitStatsColors("⬚ ▢ ▤ ▣ ◼ ,", "LIGHT"));
+console.log(GitStatsColors("THis is text ⬚ ▢ ▤ ▣ ◼ ,", "LIGHT"));
 // ◼ ◼ ◼ ◼ ◼ ,
 ```
 
 
 
 
-
-
-
-
-
-
-
-
-## :question: Get Help
-
-There are few ways to get help:
-
-
-
- 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
- 2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
 
 
 
@@ -133,6 +116,24 @@ If called with one argument, the raw theme object will be returned.
 
 #### Return
 - **String** The colored result.
+
+
+
+
+
+
+
+
+
+## :question: Get Help
+
+There are few ways to get help:
+
+
+
+ 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
+ 2. For bug reports and feature requests, open issues. :bug:
+ 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
 
 
 
@@ -181,16 +182,6 @@ Thanks! :heart:
 
 
 
-
-
-
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
- - `cli-cal`
- - `cli-gh-cal`
- - `ghcal`
- - `git-stats-html`
 
 
 
